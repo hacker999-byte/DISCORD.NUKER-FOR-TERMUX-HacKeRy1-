@@ -5,8 +5,7 @@ apt update && apt upgrade
 
 pkg install python git
 
-git clone https://github.com/hacker999-byte/DISCORD.NUKER-FOR-TERMUX.git
-
+git clone https://github.com/hacker999-byte/DISCORD.NUKER-FOR-TERMUX-HacKeRy1-
 cd Discord-Nuke-Bot
 
 python -m pip install -r requirements.txt
